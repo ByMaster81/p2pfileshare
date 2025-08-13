@@ -1,4 +1,4 @@
-# Is That A F\* Napster?!! - P2P Dosya Paylaşım Uygulaması
+#P2P Dosya Paylaşım Uygulaması
 
 Bu proje, yerel bir ağ üzerinde çalışan, merkezi bir sunucuya ihtiyaç duymayan (merkeziyetsiz) bir Peer-to-Peer (P2P) dosya paylaşım uygulamasıdır. Java ve Swing kullanılarak geliştirilmiştir. Kullanıcılar, belirledikleri bir klasördeki dosyaları ağdaki diğer kullanıcılarla paylaşabilir ve ağda paylaşılan dosyaları aratarak kendi bilgisayarlarına indirebilirler.
 
